@@ -1,0 +1,11 @@
+{
+    "name": "mishtu/php-hello-world",
+    "autoload": {
+        "psr-4": {
+            "Mishtu\\PhpHelloWorld\\": "src/"
+        }
+    },
+    "require": {
+        "nesbot/carbon": "^3.10"
+    }
+}
